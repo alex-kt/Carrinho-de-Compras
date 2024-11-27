@@ -1,2 +1,2 @@
 My first project using Js,  very simple one...
-You can try here: https://alex-kt.github.io/Carrinho-de-compras/
+You can try it here: https://alex-kt.github.io/Carrinho-de-compras/
